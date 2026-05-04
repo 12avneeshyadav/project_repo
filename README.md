@@ -15,4 +15,4 @@ Language: Python
 
 ▶️ How to Run
 Clone this repository:
-git clone https://github.com/12avneeshyadav/project_repo/cafe_management_system.py
+git clone https://github.com/12avneeshyadav/project_repo/
